@@ -1,2 +1,2 @@
-# batumslot
-Batumslot hakkında tanıtım ve güncel bilgiler
+## Batumslot
+[Batumslot resmi sitesi](https://batumslotresmi.com/)
